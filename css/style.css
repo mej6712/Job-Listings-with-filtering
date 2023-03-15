@@ -1,0 +1,8 @@
+/* common */
+.clearfix::after{content:""; display: table; clear: both;}
+.container{max-width: 1440px; margin: 0 auto;}
+
+/* filter */
+.filter-box{background-color: white; border-radius: 20px; padding: 24px;}
+/* header */
+.main-header{background: #5BA4A4 url(../images/bg-header-desktop.svg); height: 155px;}
